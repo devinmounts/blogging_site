@@ -12,9 +12,9 @@ _This food blog talks about food, shares photos of food but never gives you any 
 
 * Just open in a browser
 
-GitHub repo:https://github.com/reneesarley/blogging_site
-GitHub repo:https://github.com/devinmounts/blogging_site.git
-IO: Not IO yet, haven't deployed to gh_pages
+*GitHub repo:https://github.com/reneesarley/blogging_site
+*GitHub repo:https://github.com/devinmounts/blogging_site.git
+*IO: Not IO yet, haven't deployed to gh_pages
 
 ## Known Bugs
 
